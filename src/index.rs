@@ -147,7 +147,7 @@ pub fn install_mod(
 			    {hash}\n\
 			 vs {}\n\
 			Try again, and if the issue persists, report this on GitHub: \
-			https://github.com/geode-sdk/cli/issues/new",
+			https://github.com/noahh-sdk/cli/issues/new",
 			found_version.hash
 		);
 	}
